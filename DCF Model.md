@@ -1,5 +1,6 @@
 ---
 name: dcf-valuation
+
 description: Build a discounted cash flow (DCF) enterprise valuation from historical financials and projection assumptions. Use whenever the user asks to value a company, build a DCF model, calculate WACC, project free cash flow, estimate terminal value, run an EV/EBITDA or equity value analysis, or run sensitivity analysis on a valuation. Also covers helper calculations: beta from stock/market returns, and FCF CAGR.
 
 # DCF valuation
